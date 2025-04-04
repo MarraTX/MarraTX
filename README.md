@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on: A web app focused on Oscar-winning movies (wiki-style).<br>👯 I’m looking to collaborate on: Projects with people who can spark creativity and are open to growing together!<br>🌱 I’m currently learning: Spline, Three.js, Java (I already have some base), and Python.<br>💬 Ask me about: React, Next.js, JavaScript, and databases.<br>⚡ Fun fact: I play basketball 🏀<br>
+Hey! I'm Vale 👋  
+I’m a passionate web developer currently building a wiki-style web app about Oscar-winning movies 🎬  
+
+I'm always on the lookout to collaborate with creative people who want to grow, explore new ideas, and build cool things together 💡  
+
+Right now, I'm diving into Spline, Three.js, and reinforcing my knowledge in Java and Python.  
+
+If you're into React, Next.js, JavaScript, or databases — let’s chat! I’d love to share and learn.  
+
+⚡ Fun fact: I play basketball 🏀 (and yes, I take game night very seriously 😄)
+
 
 
 ## 🌐 Socials:
