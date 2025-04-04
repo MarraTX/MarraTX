@@ -1,13 +1,10 @@
 # 💫 About Me:
-Hey! I'm Vale 👋  
+Hey! I'm Valentín 👋  
+
 I’m a passionate web developer currently building a wiki-style web app about Oscar-winning movies 🎬  
-
 I'm always on the lookout to collaborate with creative people who want to grow, explore new ideas, and build cool things together 💡  
-
 Right now, I'm diving into Spline, Three.js, and reinforcing my knowledge in Java and Python.  
-
 If you're into React, Next.js, JavaScript, or databases — let’s chat! I’d love to share and learn.  
-
 ⚡ Fun fact: I play basketball 🏀 (and yes, I take game night very seriously 😄)
 
 
